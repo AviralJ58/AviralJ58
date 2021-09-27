@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Aviral Jain
-- 👀 I’m interested in Machie Learning and Artificial Intelligence
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently studying Information Technology from VIT Vellore
 - 📫 You can reach me on Linkedin- www.linkedin.com/in/aviral-jain-20
 
